@@ -2,7 +2,7 @@
 
 Designed for tracking my progress and saving the code of the exercises I solved in the java language
 
-![image](https://user-images.githubusercontent.com/91504420/208103145-0f8e5563-efb6-4e5d-b88e-7da0a284a901.png)
+<p><img src="https://leetcode.card.workers.dev/?username=liri25112003" alt="Leetcode Stats Card"></p>
 
 # Project Status 🕛
 ## Project is: Not Done
