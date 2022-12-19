@@ -1,5 +1,12 @@
 public class LeetCode
 {
+  /**
+   * https://leetcode.com/problems/balanced-binary-tree/
+   * problem 110  Balanced Binary Tree
+   * Easy
+   * Given a binary tree, determine if it is height-balanced
+   * Tree, Depth-First-Search, Binary tree
+   */
   private int getHeight(TreeNode tree)
     {
         if(tree == null)
