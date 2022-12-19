@@ -30,4 +30,4 @@ public class LeetCode
         }
         return getHeight(root) != -1;
    }// end of method isBalanced
-}end of class LeetCode
+}// end of class LeetCode
