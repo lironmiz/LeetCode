@@ -7,7 +7,7 @@ import java.util.HashMap;
 public class LeetCode
 {
    /**
-    * https://leetcode.com/problems/palindrome-number/
+    * https://leetcode.com/problems/majority-element/
     * Easy
     * problem 169 Majority Element
     * Given an array nums of size n, return the majority element.
